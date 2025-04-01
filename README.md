@@ -1,6 +1,3 @@
-Hi there,
-
-My name is Jimmy! I have been coding for more than a year now. I have developed my first 3 projects during my time at App Academy. I'm a full-time Risk Consultant and a part-time Software Engineer! I want to be a full-time SWE at some point but I'm currently focusing on building my skillset and learning how to develop more web applications. Coding is fun and challenging and that's why I enjoy it so much! If you're interested in what I have created, please check my repo. See you around! 
 
 
 - 🔭 More projects are coming!
